@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+PROJECT_NAME='Morandi Comfort'
+
+cp "../dist/${PROJECT_NAME}.zip" ~/.minecraft/resourcepacks

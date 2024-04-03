@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+PROJECT_NAME='Morandi Comfort'
+
+cd ../export
+rm "../dist/${PROJECT_NAME}.zip"
+zip -r "../dist/${PROJECT_NAME}" * -9
