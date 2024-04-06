@@ -1,6 +1,12 @@
 # Morandi Comfort
 
-An open-source minecraft texture pack
+![logo](https://assets.cure-x.net/pictures/morandi-comfort/logo.png)
+An open-source minecraft texture pack.
+
+> name: Morandi Comfort
+> author: Cure-X
+> site: https://cure-x.net/minecraft/textures/morandi-comfort
+> license: LICENSE LICENSES/*
 
 ## Installation
 
@@ -26,5 +32,5 @@ chmod +x pack install
 ## Contribution
 
 1. Star this repository
-2. Giving advice
+2. Give advice
 3. Pull request
