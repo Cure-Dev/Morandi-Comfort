@@ -3,10 +3,10 @@
 ![logo](https://assets.cure-x.net/pictures/morandi-comfort/logo.png)
 An open-source minecraft texture pack.
 
-> name: Morandi Comfort
-> author: Cure-X
-> site: https://cure-x.net/minecraft/textures/morandi-comfort
-> license: LICENSE LICENSES/*
+> name: Morandi Comfort  
+> author: Cure-X  
+> site: https://cure-x.net/minecraft/textures/morandi-comfort  
+> license: LICENSE LICENSES/*  
 
 ## Installation
 
